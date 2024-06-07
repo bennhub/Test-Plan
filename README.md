@@ -1,4 +1,4 @@
-# Website Testing Test Plan
+# Standard Web App Test Plan
 
 ## Introduction 
 This document outlines the testing approach and methodology for the website under consideration. It includes details about testing resources, scope, schedule, and risks associated with the testing process.
