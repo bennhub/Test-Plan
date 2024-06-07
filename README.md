@@ -1,4 +1,4 @@
-# Standard Web App Test Plan
+# Standard Web Test Plan
 
 ## Introduction 
 This document outlines the testing approach and methodology for the website under consideration. It includes details about testing resources, scope, schedule, and risks associated with the testing process.
@@ -32,7 +32,7 @@ This document outlines the testing approach and methodology for the website unde
 ## Automation Priorities
    - Discuss with the Client: Meet with the client to identify high-traffic areas, areas prone to breakage, and areas with the most business value for automation.
    - Identify Automation Targets: Determine the modules or functionalities that would benefit most from automation based on client input and testing team analysis.
-   - 
+     
 ## Test Schedule
 - **Timeline for Each Testing Phase:**
    - Functional testing: Week 1-2
